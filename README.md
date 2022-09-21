@@ -11,4 +11,5 @@ For this challenge, you have to fork this repo and create a challenge following 
     6. When you click over an item into the dropdown, the v-model will be triggered
     
 Here is an example for the component
+
 ![image](https://user-images.githubusercontent.com/32050436/191541018-6612f250-6682-42aa-b185-1ddf3c3a016c.png)
