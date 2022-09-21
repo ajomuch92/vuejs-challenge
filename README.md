@@ -1,6 +1,6 @@
 # Vue JS Code Challenge
 
-For this challenge, you have to fork this repo and create a challenge following this step
+For this challenge, you have to fork this repo and create a challenge following these steps:
 1. Create a new proyect using Vite, Vuejs 3 and Typescript
 2. Inside this proyect, create a new component, following the next acceptance criteria:
     1. The component name is Autocomplete
